@@ -28,15 +28,15 @@ body {
     .name {
         font-size: 15px;
     }
-    
+
     &__header {
         display: flex;
         align-items: center;
         margin-bottom: 10px;
 
-        h3 {
-            font-size: 15px;
-        }
+        // h3 {
+        //     font-size: 15px;
+        // }
 
         p {
             opacity: 50%;
