@@ -26,13 +26,13 @@ body {
   padding: 30px;
   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 }
+.card .name {
+  font-size: 15px;
+}
 .card__header {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
-}
-.card__header h3 {
-  font-size: 15px;
 }
 .card__header p {
   opacity: 50%;
